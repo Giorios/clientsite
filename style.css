@@ -8,3 +8,11 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+.firstfont {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+}
+.secondfont {
+  font-family: 'Questrial', sans-serif;
+  font-size: 16px;
+}
