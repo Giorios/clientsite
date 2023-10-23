@@ -11,8 +11,17 @@
 .firstfont {
   font-family: 'Playfair Display', serif;
   font-size: 30px;
+  color: #7AB6BA;
 }
 .secondfont {
   font-family: 'Questrial', sans-serif;
   font-size: 16px;
+  color: #828282;
+}
+.col {
+  border-style: solid;
+}
+.navbar-custom .nav-link {
+  font-family: 'Questrial', sans-serif;
+  color: #828282;
 }
