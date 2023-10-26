@@ -1,12 +1,12 @@
 .parallax {
-    background-image: url();
+    background-image: url(img/sunset.jpg);
   
     min-height: 500px;
-  
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    filter: contrast(60%);
   }
 .firstfont {
   font-family: 'Playfair Display', serif;
@@ -18,10 +18,21 @@
   font-size: 16px;
   color: #828282;
 }
-.col {
+ .col, .col-4, .col-2 {
   border-style: solid;
-}
+} 
 .navbar-custom .nav-link {
   font-family: 'Questrial', sans-serif;
   color: #828282;
+}
+.button {
+  background-color: #7AB6BA;
+  font-family: 'Playfair Display', serif;
+  padding: 15px 10px;
+}
+
+.button1 {
+  background-color: white;
+  border: 3px solid #7AB6BA;
+  color: #7AB6BA;
 }
