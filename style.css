@@ -10,17 +10,16 @@
   }
 .firstfont {
   font-family: 'Playfair Display', serif;
-  font-size: 30px;
+  font-size: 40px;
   color: #7AB6BA;
 }
 .secondfont {
   font-family: 'Questrial', sans-serif;
   font-size: 16px;
   color: #828282;
+  margin-bottom: 200px;
 }
- .col, .col-4, .col-2 {
-  border-style: solid;
-} 
+
 .navbar-custom .nav-link {
   font-family: 'Questrial', sans-serif;
   color: #828282;
@@ -29,10 +28,20 @@
   background-color: #7AB6BA;
   font-family: 'Playfair Display', serif;
   padding: 15px 10px;
+  margin-bottom: 40px;
 }
-
 .button1 {
   background-color: white;
   border: 3px solid #7AB6BA;
   color: #7AB6BA;
+}
+a:link {
+  text-decoration: none;
+}
+.secondfonttwo {
+  font-family: 'Questrial', sans-serif;
+  font-size: 18px;
+  color: #828282;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
