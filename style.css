@@ -50,3 +50,13 @@ a:link {
   border-style: solid;
 }
 
+.firstfonttwo {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  color: #7AB6BA;
+}
+.secondfontthr {
+  font-family: 'Questrial', sans-serif;
+  font-size: 16px;
+  color: #828282;
+}
