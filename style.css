@@ -60,3 +60,14 @@ a:link {
   font-size: 16px;
   color: #828282;
 }
+
+.paral {
+  background-image: url(sunset.jpg);
+
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: contrast(60%);
+}
