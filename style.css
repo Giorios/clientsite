@@ -1,18 +1,20 @@
 .parallax {
-    background-image: url(sunset.jpg);
-  
-    min-height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    filter: contrast(60%);
-  }
+  background-image: url(img/sunset.jpg);
+
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: contrast(60%);
+}
+
 .firstfont {
   font-family: 'Playfair Display', serif;
   font-size: 40px;
   color: #7AB6BA;
 }
+
 .secondfont {
   font-family: 'Questrial', sans-serif;
   font-size: 16px;
@@ -24,20 +26,24 @@
   font-family: 'Questrial', sans-serif;
   color: #828282;
 }
+
 .button {
   background-color: #7AB6BA;
   font-family: 'Playfair Display', serif;
   padding: 15px 10px;
   margin-bottom: 40px;
 }
+
 .button1 {
   background-color: white;
   border: 3px solid #7AB6BA;
   color: #7AB6BA;
 }
+
 a:link {
   text-decoration: none;
 }
+
 .secondfonttwo {
   font-family: 'Questrial', sans-serif;
   font-size: 18px;
@@ -46,7 +52,9 @@ a:link {
   margin-bottom: 20px;
 }
 
-.container, .row, .col {
+.container,
+.row,
+.col {
   border-style: solid;
 }
 
@@ -55,6 +63,7 @@ a:link {
   font-size: 40px;
   color: #7AB6BA;
 }
+
 .secondfontthr {
   font-family: 'Questrial', sans-serif;
   font-size: 16px;
@@ -62,7 +71,7 @@ a:link {
 }
 
 .paral {
-  background-image: url(sunset.jpg);
+  background-image: url(img/sunset2.jpg);
 
   min-height: 500px;
   background-attachment: fixed;
